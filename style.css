@@ -6,7 +6,6 @@ h1 {
     display: inline-block;
     color: purple;
     font-weight: 300;
-    margin: 0 32px 0 0;
 }
 
 .links {
@@ -37,5 +36,5 @@ a.active {
 
 img {
     height: 500px;
-    width: 100%;
+    width: 50%;
 }
